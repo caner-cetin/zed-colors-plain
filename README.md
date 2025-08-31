@@ -22,6 +22,8 @@ distinguished color for constant literals (string, numbers, JSX tags).
 
 ## Installation & Usage
 
+### Vim
+
 With [vim-plug][] you add this to the `.vimrc`:
 
 ```
@@ -34,6 +36,14 @@ Then:
 set background=light " Set to dark for a dark variant
 colorscheme plain
 ```
+
+### Zed
+
+```
+touch ~/.config/zed/themes/plain.json
+```
+
+then copy the contents of `colors/plain.json`, theme toggle menu (Command+K & Command+T) should display the Plain Dark and Plain Light.
 
 ## FAQ
 
