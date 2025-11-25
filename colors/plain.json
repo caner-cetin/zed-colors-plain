@@ -88,7 +88,7 @@
         "modified.background": "#303030",
         "modified.border": "#999999",
 
-        "panel.background": "#22222200",
+        "panel.background": "#22222240",
         "panel.focused_border": "#545454",
 
         "predictive": "#767676",
@@ -474,7 +474,7 @@
         "modified.background": "#E5E5E5",
         "modified.border": "#545454",
 
-        "panel.background": "#F1F1F100",
+        "panel.background": "#F1F1F140",
         "panel.focused_border": "#999999",
 
         "predictive": "#767676",
